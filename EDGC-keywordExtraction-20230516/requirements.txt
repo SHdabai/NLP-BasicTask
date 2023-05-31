@@ -1,0 +1,5 @@
+decorator==4.4.2
+jieba==0.42.1
+networkx==2.5.1
+numpy==1.19.5
+textrank4zh==0.3
