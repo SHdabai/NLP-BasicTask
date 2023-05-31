@@ -26,12 +26,6 @@ class EntityExtractor:
         self.nb_model = joblib.load(self.nb_path)
 
 
-        # {"Disease":[], "Alias":[], "Symptom":[], "Complication":[]}
-        # self.disease_path = data_dir + 'disease_vocab.txt'
-        # self.symptom_path = data_dir + 'symptom_vocab.txt'
-        # self.alias_path = data_dir + 'alias_vocab.txt'
-        # self.complication_path = data_dir + 'complications_vocab.txt'
-
         #{"equipment":[], "use":[], "function":[], "composition":[],"fault_phenomenon":[],"configuration":[]}
         self.equipment_path = data_dir + 'equipment.txt'
         self.use_path = data_dir + 'use.txt'
@@ -49,16 +43,11 @@ class EntityExtractor:
         self.configuration_entities = [w.strip() for w in open(self.configuration_path, encoding='utf8') if w.strip()]
 
 
-        self.region_words = list(set(self.disease_entities+self.alias_entities+self.symptom_entities))
-
-
+        self.region_words = list(set(self.equipment_entities+self.use_entities+self.function_entities+self.composition_entities+
+                                     self.fault_phenomenon_entities+self.configuration_entities))
 
 
         # 构造领域actree
-        # self.disease_tree = self.build_actree(list(set(self.disease_entities)))
-        # self.alias_tree = self.build_actree(list(set(self.alias_entities)))
-        # self.symptom_tree = self.build_actree(list(set(self.symptom_entities)))
-        # self.complication_tree = self.build_actree(list(set(self.complication_entities)))
 
         self.equipment_tree = self.build_actree(list(set(self.equipment_entities)))
         self.use_tree = self.build_actree(list(set(self.use_entities)))
@@ -156,12 +145,12 @@ class EntityExtractor:
 
 
         return self.result
-        '''
-        return :
-        {"Disease":[], "Alias":[], "Symptom":[], "Complication":[]}
-        {"equipment":[], "use":[], "function":[], "composition":[],"fault_phenomenon":[],"configuration":[]}
-        
-        '''
+        # '''
+        # return :
+        # {"Disease":[], "Alias":[], "Symptom":[], "Complication":[]}
+        # {"equipment":[], "use":[], "function":[], "composition":[],"fault_phenomenon":[],"configuration":[]}
+        #
+        # '''
 
 
 
@@ -184,12 +173,12 @@ class EntityExtractor:
         sentence = sentence.strip()
 
 
-		#TODO step-1:构建分词数据列表..................................................................
+#TODO step-1:构建分词数据列表..................................................................
         words = [w.strip() for w in jieba.cut(sentence) if w.strip() not in self.stopwords and len(w.strip()) >= 2]
 
 
 
-        #TODO step-2:将分词列表中的数据与各个实体库进行相似度计算..........................................
+#TODO step-2:将分词列表中的数据与各个实体库进行相似度计算..........................................
         alist = [] #all 相似度
         for word in words:
             temp = [self.equipment_entities, self.use_entities, self.function_entities,
@@ -325,7 +314,7 @@ class EntityExtractor:
         :return:
         """
 
-        features = [0] * 6
+        features = [0] * 7
         for d in self.fault_cause_qwds:
             if d in text:
                 features[0] += 1
@@ -405,6 +394,7 @@ class EntityExtractor:
         feature = np.concatenate((tfidf_feature, other_feature), axis=1) #两者特征进行拼接
 
         predicted = self.model_predict(feature, self.nb_model) #模型进行预测 目的意图
+        print(predicted,'predicted---------------------------------')
         intentions.append(predicted[0])
 
 
