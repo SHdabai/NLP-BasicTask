@@ -1,0 +1,3 @@
+model_checkpoint_path: "similarity.ckpt-770"
+all_model_checkpoint_paths: "similarity.ckpt-760"
+all_model_checkpoint_paths: "similarity.ckpt-770"
