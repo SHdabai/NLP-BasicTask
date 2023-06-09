@@ -1,0 +1,621 @@
+{ "text": "TBM023B型超短波电台密码模块的配置是什么？", "label": "query_configuration" }
+{ "text": "MPH005短波电台密码机有哪些故障原因？", "label": "query_fault_cause" }
+{ "text": "MPW012C车载型百兆IP网络密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPX001D数字群落密码机有哪些操作？", "label": "query_use" }
+{ "text": "JP951E会议电视密码机的解决方案是什么？", "label": "query_solution" }
+{ "text": "MPP001A型机载密码机的功能有哪些？", "label": "query_function" }
+{ "text": "MPH004B超短波电台密码机有哪些配置选项？", "label": "query_configuration" }
+{ "text": "MZD019型1000M以太网接口密码机的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "JJY910K一体化指挥平台密码管理系统的故障原因有哪些？", "label": "query_fault_cause" }
+{ "text": "MPD040A/B无人机测控系统密码机的操作流程是什么？", "label": "query_use" }
+{ "text": "MPT013B超短波电台嵌入式密码机的主要参数有哪些？", "label": "query_parameter" }
+{ "text": "TJM0006型网管安全保密模块有什么功能？", "label": "query_function" }
+{ "text": "JJP980H综合数据链虚拟信道密码模块有哪些配置选项？", "label": "query_configuration" }
+{ "text": "MMD052A简版便携式密码资源注入器的操作方式是怎样的？", "label": "query_use" }
+{ "text": "MPD016A指挥所无线通信系统线路密码机的故障原因有哪些？", "label": "query_fault_cause" }
+{ "text": "MPH001A通用高速数据电台密码机的功能有哪些？", "label": "query_function" }
+{ "text": "MPZ003B型USB盒式密码机的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "MMF015密码注入器的操作流程是怎样的？", "label": "query_use" }
+{ "text": "TCR220-1型125W知波电台的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPD029A近程无人机密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "JJP904S超短波电台密码机有哪些操作？", "label": "query_use" }
+{ "text": "MMD040A炮兵群移动数传系统密钥分发器的故障原因有哪些？", "label": "query_fault_cause" }
+{ "text": "MPH004A型超短波电台密码模块的解决方案是什么？", "label": "query_solution" }
+{ "text": "TJM0004型端机保密机有哪些配置选项？", "label": "query_configuration" }
+{ "text": "MZX004A型1000M信道密码机的功能是什么？", "label": "query_function" }
+{ "text": "MMT039型卫星通信密码机的主要参数有哪些？", "label": "query_parameter" }
+{ "text": "MPX001C数字群路密码机的操作方法是什么？", "label": "query_use" }
+{ "text": "MMD049一体化专核密码管理系统的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "JP980A1综合数据链陆用型HF信道密码机有哪些操作选项？", "label": "query_use" }
+{ "text": "MPH009手持式超短波电台密码模块的配置是哪些？", "label": "query_configuration" }
+{ "text": "MPD007北斗导航用户终端密码模块的主要功能有哪些？", "label": "query_function" }
+{ "text": "MPT013B超短波电台嵌入式密码机的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "MPD040A无人机测控系统密码机的解决方案是什么？", "label": "query_solution" }
+{ "text": "TJM0006型网管安全保密模块的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MMD052A简版便携式密码资源注入器的故障解决方式是什么？", "label": "query_solution" }
+{ "text": "MPX001E数字群路密码机的操作流程是怎样的？", "label": "query_use" }
+{ "text": "JJP902E密码机的主要参数有哪些？", "label": "query_parameter" }
+{ "text": "MPH004A型超短波电台密码模块的功能是什么？", "label": "query_function" }
+{ "text": "TBM023C型超短波电台密码模块的操作方法是什么？", "label": "query_use" }
+{ "text": "北斗手持双模型用户机的故障原因有哪些？", "label": "query_fault_cause" }
+{ "text": "JP980D2航空数据链V/U信道密码机的配置选项是什么？", "label": "query_configuration" }
+{ "text": "MPT006短波电台密码机有哪些操作？", "label": "query_use" }
+{ "text": "MPH009手持式超短波电台密码模块的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "MMD066E北斗密钥参数注入器的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPP001A型JIDS机载C类端机密码机有哪些配置选项？", "label": "query_configuration" }
+{ "text": "JJY910K一体化指挥平台密码管理系统的主要功能是什么？", "label": "query_function" }
+{ "text": "MMD040A炮兵群移动数传系统密钥分发器有哪些操作？", "label": "query_use" }
+{ "text": "MPD029B近程无人机密码机的故障原因有哪些？", "label": "query_fault_cause" }
+{ "text": "TJM0004型端机保密机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MZD019型1000M以太网接口密码机的功能有哪些？", "label": "query_function" }
+{ "text": "MPX001B数字群路密码机的操作流程是怎样的？", "label": "query_use" }
+{ "text": "MPH005短波电台密码机的解决方案是什么？", "label": "query_solution" }
+{ "text": "MPT005短波电台密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "JP951E会议电视密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MMD066E北斗密钥参数注入器的操作方式是怎样的？", "label": "query_use" }
+{ "text": "MPZ001B型CPCI全加固卡式密码机的功能有哪些？", "label": "query_function" }
+{ "text": "JJP902C密码机的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "MPP032B综合数据链直升机载型V/U信道密码机的解决方案是什么？", "label": "query_solution" }
+{ "text": "MPH004A超短波电台密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MPD040B无人机测控系统密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "TBM023C型手持式超短波电台密码模块有哪些操作？", "label": "query_use" }
+{ "text": "MPT002A多功能电台密码机的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "JJY910K密码管理系统的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MMD015密码资源注入器的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPD029A/B近程无人机密码机的功能是什么？", "label": "query_function" }
+{ "text": "MPH006短波密码机的故障原因有哪些？", "label": "query_fault_cause" }
+{ "text": "JP980A1综合数据链陆用型HF信道密码机的解决方案是什么？", "label": "query_solution" }
+{ "text": "MPD041A超近程无人机密码机的操作流程是怎样的？", "label": "query_use" }
+{ "text": "TJM0006型网管安全保密模块的主要功能是什么？", "label": "query_function" }
+{ "text": "MPX034八路数字群路密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MMT039型卫星通信密码机的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "MMD049一体化专核密码管理系统的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MZX004A型1000M信道密码机的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "MPD007北斗导航用户终端密码模块的操作方法是怎样的？", "label": "query_use" }
+{ "text": "MPH009手持式超短波电台密码模块的功能有哪些？", "label": "query_function" }
+{ "text": "JP951F会议电视密码机的解决方案是什么？", "label": "query_solution" }
+{ "text": "MPT013B超短波电台嵌入式密码机的配置选项是什么？", "label": "query_configuration" }
+{ "text": "TJM0004型端机保密机的故障原因有哪些？", "label": "query_fault_cause" }
+{ "text": "MPD016A指挥所无线通信系统线路密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPX001E数字群路密码机的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "JJP902E密码机的操作流程是怎样的？", "label": "query_use" }
+{ "text": "MPH004A型超短波电台密码模块的主要参数是什么？", "label": "query_parameter"}
+{ "text": "TBM023C型超短波电台密码模块的功能有哪些？", "label": "query_function" }
+{ "text": "北斗手持双模型用户机的解决方案是什么？", "label": "query_solution" }
+{ "text": "MPT006短波电台密码机的故障原因有哪些？", "label": "query_fault_cause" }
+{ "text": "MPH009手持式超短波电台密码模块的配置选项是什么？", "label": "query_configuration" }
+{ "text": "MMD066E北斗密钥参数注入器的功能有哪些？", "label": "query_function" }
+{ "text": "MPP001A型JIDS机载C类端机密码机的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "JJY910K一体化指挥平台密码管理系统的主要操作是什么？", "label": "query_function" }
+{ "text": "MMD040A炮兵群移动数传系统密钥分发器的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MPD029B近程无人机密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "TJM0004型端机保密机的功能有哪些？", "label": "query_function" }
+{ "text": "MZD019型1000M以太网接口密码机的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "MPX001B数字群路密码机的解决方案是什么？", "label": "query_solution" }
+{ "text": "MPH005短波电台密码机的操作", "label": "query_use" }
+{ "text": "MPT005短波电台密码机的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "JP951E会议电视密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MMD066E北斗密钥参数注入器的操作流程是怎样的？", "label": "query_use" }
+{ "text": "MPD040B无人机测控系统密码机的故障原因有哪些？", "label": "query_fault_cause" }
+{ "text": "MPH004A超短波电台密码机的解决方案是什么？", "label": "query_solution" }
+{ "text": "TJM0006型网管安全保密模块的配置选项是什么？", "label": "query_configuration" }
+{ "text": "MZX004A型1000M信道密码机的主要功能是什么？", "label": "query_function" }
+{ "text": "MMT039型卫星通信密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MPX001C数字群路密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "JJP902C密码机的主要功能是什么？", "label": "query_function" }
+{ "text": "MPH006短波密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MPD029A近程无人机密码机的解决方案是什么？", "label": "query_solution" }
+{ "text": "TBM023C型手持式超短波电台密码模块的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPT002A多功能电台密码机的配置选项是什么？", "label": "query_configuration" }
+{ "text": "MMD015密码资源注入器的故障原因有哪些？", "label": "query_fault_cause" }
+{ "text": "JP980D2航空数据链V/U信道密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPD041A超近程无人机密码机的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "MPP032B综合数据链直升机载型V/U信道密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MPH009手持式超短波电台密码模块的主要功能是什么？", "label": "query_function" }
+{ "text": "MPZ001B型CPCI全加固卡式密码机的故障原因有哪些？", "label": "query_fault_cause" }
+{ "text": "TJM0004型网管安全保密模块的操作流程是怎样的？", "label": "query_use" }
+{ "text": "MPX034八路数字群路密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MMD049一体化专核密码管理系统的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MPD007北斗导航用户终端密码模块的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "MPH004A型超短波电台密码模块的操作方法是怎样的？", "label": "query_use" }
+{ "text": "JP951F会议电视密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPT013B超短波电台嵌入式密码机的功能有哪些？", "label": "query_function" }
+{ "text": "MPH005短波电台密码机的主要操作是什么？", "label": "query_use" }
+{ "text": "MMD066E北斗密钥参数注入器的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MPD029A/B近程无人机密码机的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "MZX004A型1000M信道密码机的解决方案是什么？", "label": "query_solution" }
+{ "text": "TJM0006型网管安全保密模块的主要操作是什么？", "label": "query_function" }
+{ "text": "MPX001E数字群路密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPT005短波电台密码机的解决方案是什么？", "label": "query_solution" }
+{ "text": "JJP902E密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MPH004A型超短波电台密码模块的故障原因有哪些？", "label": "query_fault_cause" }
+{ "text": "TBM023C型手持式超短波电台密码模块的操作流程是怎样的？", "label": "query_use" }
+{ "text": "北斗手持双模型用户机的主要功能是什么？", "label": "query_function" }
+{ "text": "MMT039型卫星通信密码机的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "MPP001A型JIDS机载C类端机密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPD016A指挥所无线通信系统线路密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MMD066E北斗密钥参数注入器的主要操作是什么？", "label": "query_function" }
+{ "text": "JP951E会议电视密码机的解决方案是什么？", "label": "query_solution" }
+{ "text": "MPD040B无人机测控系统密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "TJM0004型端机保密机的配置选项是什么？", "label": "query_configuration" }
+{ "text": "MPT005短波电台密码机的主要功能是什么？", "label": "query_function" }
+{ "text": "MMD049一体化专核密码管理系统的故障原因有哪些？", "label": "query_fault_cause" }
+{ "text": "MPH004A超短波电台密码机的操作流程是怎样的？", "label": "query_use" }
+{ "text": "MPX001C数字群路密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "JJP902C密码机的解决方案是什么？", "label": "query_solution" }
+{ "text": "MPD029A近程无人机密码机的配置选项是什么？", "label": "query_configuration" }
+{ "text": "MPP032B综合数据链直升机载型V/U信道密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "TJM0006型网管安全保密模块的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "MZX004A型1000M信道密码机的主要操作是什么？", "label": "query_function" }
+{ "text": "MPD007北斗导航用户终端密码模块的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MPH005短波电台密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPT013B超短波电台嵌入式密码机的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "MPX001B数字群路密码机的主要功能是什么？", "label": "query_function" }
+{ "text": "JP951F会议电视密码机的操作流程是怎样的？", "label": "query_use" }
+{ "text": "MPH006短波密码机的解决方案是什么？", "label": "query_solution" }
+{ "text": "TBM023C型手持式超短波电台密码模块的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MMD015密码资源注入器的操作流程是怎样的？", "label": "query_use" }
+{ "text": "MPD029B近程无人机密码机的主要操作是什么？", "label": "query_function" }
+{ "text": "MMT039型卫星通信密码机的主要功能是什么？", "label": "query_function" }
+{ "text": "TJM0004型端机保密机的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "MMD066E北斗密钥参数注入器的配置选项是什么？", "label": "query_configuration" }
+{ "text": "MPH004A型超短波电台密码模块的主要操作是什么？", "label": "query_use" }
+{ "text": "MPD016A指挥所无线通信系统线路密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "JP980D2航空数据链V/U信道密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MPT002A多功能电台密码机的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "MZX004A型1000M信道密码机的功能有哪些？", "label": "query_function" }
+{ "text": "MPX034八路数字群路密码机的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "MPP001A型JIDS机载C类端机密码机的配置选项是什么？", "label": "query_configuration" }
+{ "text": "MPH009手持式超短波电台密码模块的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPD040B无人机测控系统密码机的操作流程是怎样的？", "label": "query_use" }
+{ "text": "TBM023C型超短波电台密码模块的故障原因有哪些？", "label": "query_fault_cause" }
+{ "text": "JJP902C密码机的主要操作是什么？", "label": "query_use" }
+{ "text": "MMD049一体化专核密码管理系统的主要功能是什么？", "label": "query_function" }
+{ "text": "MPD029A/B近程无人机密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MPZ001B型CPCI全加固卡式密码机的主要操作是什么？", "label": "query_use" }
+{ "text": "TJM0006型网管安全保密模块的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "MPT005短波电台密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MPH004A超短波电台密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPX001C数字群路密码机的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "MMD066E北斗密钥参数注入器的操作流程是怎样的？", "label": "query_use" }
+{ "text": "JP951E会议电视密码机的主要功能是什么？", "label": "query_function" }
+{ "text": "MPD040B无人机测控系统密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "TJM0004型网管安全保密模块的主要操作是什么？", "label": "query_use" }
+{ "text": "MMT039型卫星通信密码机的解决方案是什么？", "label": "query_solution" }
+{ "text": "MPH005短波电台密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MPT013B超短波电台嵌入式密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPD007北斗导航用户终端密码模块的主要功能是什么？", "label": "query_function" }
+{ "text": "TBM023C型手持式超短波电台密码模块的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "什么是MMD049一体化专核密码管理系统？", "label": "query_composition" }
+{ "text": "MPD029B近程无人机密码机的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "TJM0004型端机保密机的主要功能是什么？", "label": "query_function" }
+{ "text": "MPT002A多功能电台密码机的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "JP980D2航空数据链V/U信道密码机的主要操作是什么？", "label": "query_use" }
+{ "text": "MMD049一体化专核密码管理系统的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MPX034八路数字群路密码机的配置选项是什么？", "label": "query_configuration" }
+{ "text": "MPH009手持式超短波电台密码模块的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "MPT005短波电台密码机的主要操作是什么？", "label": "query_use" }
+{ "text": "MMD066E北斗密钥参数注入器的主要参数是什么？", "label": "query_parameter" }
+{ "text": "JP951E会议电视密码机的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "TJM0006型网管安全保密模块的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MMT039型卫星通信密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPH004A超短波电台密码机的解决方案是什么？", "label": "query_solution" }
+{ "text": "MPX001C数字群路密码机的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "JJP902C密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MPD029A/B近程无人机密码机的主要功能是什么？", "label": "query_function" }
+{ "text": "MPP032B综合数据链直升机载型V/U信道密码机的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "TJM0004型网管安全保密模块的操作流程是怎样的？", "label": "query_use" }
+{ "text": "MZX004A型1000M信道密码机的主要功能是什么？", "label": "query_function" }
+{ "text": "MPD007北斗导航用户终端密码模块的配置选项是什么？", "label": "query_configuration" }
+{ "text": "MPH005短波电台密码机的解决方案是什么？", "label": "query_solution" }
+{ "text": "MPT013B超短波电台嵌入式密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "TJM0006型端机保密机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MMD049一体化专核密码管理系统的操作流程是怎样的？", "label": "query_use" }
+{ "text": "MPH009手持式超短波电台密码模块的主要操作是什么？", "label": "query_use" }
+{ "text": "MPD040B无人机测控系统密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "JP951E会议电视密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MPT005短波电台密码机的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "MPH004A超短波电台密码机的主要功能是什么？", "label": "query_function" }
+{ "text": "MPX001C数字群路密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MMD066E北斗密钥参数注入器的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "TJM0004型网管安全保密模块的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MMT039型卫星通信密码机的主要操作是什么？", "label": "query_use" }
+{ "text": "MPH006短波密码机的解决方案是什么？", "label": "query_solution" }
+{ "text": "MPT013B超短波电台嵌入式密码机的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "JP980D2航空数据链V/U信道密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MZX004A型1000M信道密码机的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "MPD029B近程无人机密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "TJM0006型网管安全保密模块的主要功能是什么？", "label": "query_function" }
+{ "text": "MPT002A多功能电台密码机的操作流程是怎样的？", "label": "query_use" }
+{ "text": "JJP902E密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MMD015密码资源注入器的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "MPD029A近程无人机密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPH009手持式超短波电台密码模块的解决方案是什么？", "label": "query_solution" }
+{ "text": "MPT005短波电台密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MMD066E北斗密钥参数注入器的主要功能是什么？", "label": "query_function" }
+{ "text": "JP951E会议电视密码机的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "MPD040B无人机测控系统密码机的主要操作是什么？", "label": "query_use" }
+{ "text": "TJM0004型网管安全保密模块的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MMT039型卫星通信密码机的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "MPH005短波电台密码机的主要功能是什么？", "label": "query_function" }
+{ "text": "MPT013B超短波电台嵌入式密码机的操作流程是怎样的？", "label": "query_use" }
+{ "text": "MPX001C数字群路密码机的解决方案是什么？", "label": "query_solution" }
+{ "text": "MMD049一体化专核密码管理系统的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "TJM0006型网管安全保密模块的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "MTP032B综合数据链直升机载型V/U信道密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPD016A指挥所无线通信系统线路密码机的主要功能是什么？", "label": "query_function" }
+{ "text": "JP980D2航空数据链V/U信道密码机的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "MPT002A多功能电台密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MPH004A超短波电台密码机的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "MPD007北斗导航用户终端密码模块的主要操作是什么？", "label": "query_use" }
+{ "text": "MZX004A型1000M信道密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPH006短波密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "TJM0004型网管安全保密模块的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "MMT039型卫星通信密码机的解决方案是什么？", "label": "query_solution" }
+{ "text": "MPT005短波电台密码机的主要功能是什么？", "label": "query_function" }
+{ "text": "MPD029B近程无人机密码机的主要操作是什么？", "label": "query_use" }
+{ "text": "MPH009手持式超短波电台密码模块的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "JP951E会议电视密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MMD049一体化专核密码管理系统的主要功能是什么？", "label": "query_function" }
+{ "text": "TJM0006型端机保密机的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "MPT013B超短波电台嵌入式密码机的操作流程是怎样的？", "label": "query_use" }
+{ "text": "MPX001C数字群路密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MMD066E北斗密钥参数注入器的配置选项是什么？", "label": "query_configuration" }
+{ "text": "MPH005短波电台密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPT002A多功能电台密码机的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "JP980D2航空数据链V/U信道密码机的主要功能是什么？", "label": "query_function" }
+{ "text": "MPD040B无人机测控系统密码机的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "TJM0004型网管安全保密模块的主要操作是什么？", "label": "query_use" }
+{ "text": "MMT039型卫星通信密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MPH004A超短波电台密码机的解决方案是什么？", "label": "query_solution" }
+{ "text": "MPD016A指挥所无线通信系统线路密码机的操作流程是怎样的？", "label": "query_use" }
+{ "text": "MPT005短波电台密码机的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "MMD049一体化专核密码管理系统的主要参数是什么？", "label": "query_parameter" }
+{ "text": "TJM0006型网管安全保密模块的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MPH009手持式超短波电台密码模块的主要功能是什么？", "label": "query_function" }
+{ "text": "JP951E会议电视密码机的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "MPD029B近程无人机密码机的解决方案是什么？", "label": "query_solution" }
+{ "text": "MPT013B超短波电台嵌入式密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPX001C数字群路密码机的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "MMD066E北斗密钥参数注入器的主要操作是什么？", "label": "query_use" }
+{ "text": "TJM0004型端机保密机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MPT002A多功能电台密码机的主要功能是什么？", "label": "query_function" }
+{ "text": "MPH005短波电台密码机的操作流程是怎样的？", "label": "query_use" }
+{ "text": "JP980D2航空数据链V/U信道密码机的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "MPD040B无人机测控系统密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MMT039型卫星通信密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "TJM0006型网管安全保密模块的主要操作是什么？", "label": "query_use" }
+{ "text": "MPH004A超短波电台密码机的解决方案是什么？", "label": "query_solution" }
+{ "text": "MMD049一体化专核密码管理系统的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "MPT005短波电台密码机的主要操作是什么？", "label": "query_use" }
+{ "text": "MPD016A指挥所无线通信系统线路密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MPT013B超短波电台嵌入式密码机的解决方案是什么？", "label": "query_solution" }
+{ "text": "MPH009手持式超短波电台密码模块的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "TJM0004型网管安全保密模块的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MMD066E北斗密钥参数注入器的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MPX001C数字群路密码机的主要功能是什么？", "label": "query_function" }
+{ "text": "MPH006短波密码机的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "MZX004A型1000M信道密码机的操作流程是怎样的？", "label": "query_use" }
+{ "text": "MPT002A多功能电台密码机的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "JP951E会议电视密码机的主要功能是什么？", "label": "query_function" }
+{ "text": "MPD029B近程无人机密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MMT039型卫星通信密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPH005短波电台密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "TJM0006型端机保密机的解决方案是什么？", "label": "query_solution" }
+{ "text": "MMD049一体化专核密码管理系统的操作流程是怎样的？", "label": "query_use" }
+{ "text": "MPT013B超短波电台嵌入式密码机的主要功能是什么？", "label": "query_function" }
+{ "text": "MPD016A指挥所无线通信系统线路密码机的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "JP980D2航空数据链V/U信道密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MPH009手持式超短波电台密码模块的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPT005短波电台密码机的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "TJM0004型网管安全保密模块的主要操作流程是怎样的？", "label": "query_use" }
+{ "text": "MMD066E北斗密钥参数注入器的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPD040B无人机测控系统密码机的主要功能是什么？", "label": "query_function" }
+{ "text": "MMT039型卫星通信密码机的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "MPH004A超短波电台密码机的主要操作是什么？", "label": "query_use" }
+{ "text": "MPT002A多功能电台密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "JP951E会议电视密码机的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "MPD029B近程无人机密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPT013B超短波电台嵌入式密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MPX001C数字群路密码机的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "MMD049一体化专核密码管理系统的主要操作流程是怎样的？", "label": "query_use" }
+{ "text": "TJM0006型端机保密机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPH006短波密码机的主要功能是什么？", "label": "query_function" }
+{ "text": "MZX004A型1000M信道密码机的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "MPT005短波电台密码机的操作流程是怎样的？", "label": "query_use" }
+{ "text": "JP980D2航空数据链V/U信道密码机的主要操作是什么？", "label": "query_use" }
+{ "text": "MPD016A指挥所无线通信系统线路密码机的解决方案是什么？", "label": "query_solution" }
+{ "text": "MPT013B超短波电台嵌入式密码机的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "MPH009手持式超短波电台密码模块的主要操作流程是怎样的？", "label": "query_use" }
+{ "text": "TJM0004型网管安全保密模块的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MMD066E北斗密钥参数注入器的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "MPX001C数字群路密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPH005短波电台密码机的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "MMT039型卫星通信密码机的操作流程是怎样的？", "label": "query_use" }
+{ "text": "MPT002A多功能电台密码机的主要功能是什么？", "label": "query_function" }
+{ "text": "JP951E会议电视密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MPD040B无人机测控系统密码机的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "TJM0006型端机保密机的操作流程是怎样的？", "label": "query_use" }
+{ "text": "MPH004A超短波电台密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPT013B超短波电台嵌入式密码机的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "MPD029B近程无人机密码机的主要操作流程是怎样的？", "label": "query_use" }
+{ "text": "MZX004A型1000M信道密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MPT005短波电台密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPH006短波密码机的解决方案是什么？", "label": "query_solution" }
+{ "text": "MMD049一体化专核密码管理系统的主要功能是什么？", "label": "query_function" }
+{ "text": "TJM0004型网管安全保密模块的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "MPX001C数字群路密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MPH009手持式超短波电台密码模块的操作流程是怎样的？", "label": "query_use" }
+{ "text": "JP951E会议电视密码机的主要操作流程是怎样的？", "label": "query_use" }
+{ "text": "MPD016A指挥所无线通信系统线路密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPT013B超短波电台嵌入式密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MMT039型卫星通信密码机的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "MPH005短波电台密码机的主要功能是什么？", "label": "query_function" }
+{ "text": "TJM0006型端机保密机的主要操作是什么？", "label": "query_use" }
+{ "text": "MZX004A型1000M信道密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPT002A多功能电台密码机的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "JP951E会议电视密码机的操作流程是怎样的？", "label": "query_use" }
+{ "text": "MPD029B近程无人机密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MMD066E北斗密钥参数注入器的主要功能是什么？", "label": "query_function" }
+{ "text": "MPH004A超短波电台密码机的故障原因是什么？", "label": "query_fault_cause" }
+{ "text": "MPT013B超短波电台嵌入式密码机的主要操作流程是怎样的？", "label": "query_use" }
+{ "text": "MPD040B无人机测控系统密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "TJM0004型网管安全保密模块的主要功能是什么？", "label": "query_function" }
+{ "text": "MPH006短波密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MMD049一体化专核密码管理系统的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "MPT005短波电台密码机的主要操作流程是怎样的？", "label": "query_use" }
+{ "text": "JP980D2航空数据链V/U信道密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPD016A指挥所无线通信系统线路密码机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MPX001C数字群路密码机的主要功能是什么？", "label": "query_function" }
+{ "text": "MPH009手持式超短波电台密码模块的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MZX004A型1000M信道密码机的故障解决方案是什么？", "label": "query_solution" }
+{ "text": "TJM0006型端机保密机的配置选项有哪些？", "label": "query_configuration" }
+{ "text": "MPT002A多功能电台密码机的主要参数是什么？", "label": "query_parameter" }
+{ "text": "MPD029B近程无人机密码机的故障原因是什么？", "label": "query_fault_cause" }
+{"text":"MPT013B超短波电台嵌入式密码机的操作流程是怎样的？","label":"query_use"}
+{"text":"JP980D2航空数据链V/U信道密码机的主要操作流程是怎样的？","label":"query_use"}
+{"text":"MPH009手持式超短波电台密码模块的主要参数是什么？","label":"query_composition"}
+{"text":"MPT002A多功能电台密码机的主要功能是什么？","label":"query_function"}
+{"text":"MPD029B近程无人机密码机的故障解决方案是什么？","label":"query_solution"}
+{"text":"MMD066E北斗密钥参数注入器的操作流程是怎样的？","label":"query_use"}
+{"text":"TJM0004型网管安全保密模块的配置选项有哪些？","label":"query_configuration"}
+{"text":"MPX001C数字群路密码机的主要操作流程是怎样的？","label":"query_use"}
+{"text":"MPH005短波电台密码机的故障原因是什么？","label":"query_fault_cause"}
+{"text":"MPT013B超短波电台嵌入式密码机的主要参数是什么？","label":"query_composition"}
+{"text":"JP951E会议电视密码机的解决方案是什么？","label":"query_solution"}
+{"text":"MPD040B无人机测控系统密码机的主要功能是什么？","label":"query_function"}
+{"text":"MPH006短波密码机的配置选项有哪些？","label":"query_configuration"}
+{"text":"MZX004A型1000M信道密码机的故障解决方案是什么？","label":"query_solution"}
+{"text":"MPT005短波电台密码机的主要操作流程是怎样的？","label":"query_use"}
+{"text":"TJM0006型端机保密机的主要参数是什么？","label":"query_composition"}
+{"text":"MMT039型卫星通信密码机的配置选项有哪些？","label":"query_configuration"}
+{"text":"MPD016A指挥所无线通信系统线路密码机的主要功能是什么？","label":"query_function"}
+{"text":"MPT002A多功能电台密码机的故障原因是什么？","label":"query_fault_cause"}
+{"text":"MPH009手持式超短波电台密码模块的操作流程是怎样的？","label":"query_use"}
+{"text":"JP980D2航空数据链V/U信道密码机的主要参数是什么？","label":"query_composition"}
+{"text":"MPD029B近程无人机密码机的主要功能是什么？","label":"query_function"}
+{"text":"MPT013B超短波电台嵌入式密码机的配置选项有哪些？","label":"query_configuration"}
+{"text":"MPH005短波电台密码机的主要参数是什么？","label":"query_composition"}
+{"text":"MMT039型卫星通信密码机的主要操作流程是怎样的？","label":"query_use"}
+{"text":"MPH005短波电台密码机的配置选项有哪些？","label":"query_configuration"}
+{"text":"JP951E会议电视密码机的故障解决方案是什么？","label":"query_solution"}
+{"text":"MPX001C数字群路密码机的主要功能是什么？","label":"query_function"}
+{"text":"MPH009手持式超短波电台密码模块的主要操作流程是怎样的？","label":"query_use"}
+{"text":"TJM0004型网管安全保密模块的故障原因是什么？","label":"query_fault_cause"}
+{"text":"MMD066E北斗密钥参数注入器的配置选项有哪些？","label":"query_configuration"}
+{"text":"MPT013B超短波电台嵌入式密码机的解决方案是什么？","label":"query_solution"}
+{"text":"MPH006短波密码机的故障原因是什么？","label":"query_fault_cause"}
+{"text":"MZX004A型1000M信道密码机的主要功能是什么？","label":"query_function"}
+{"text":"MPT005短波电台密码机的主要参数是什么？","label":"query_composition"}
+{"text":"TPJ606E数字化语音会议系统密码机的操作流程是怎样的？","label":"query_use"}
+{"text":"JP980D2航空数据链V/U信道密码机的故障解决方案是什么？","label":"query_solution"}
+{"text":"MPD016A指挥所无线通信系统线路密码机的主要操作流程是怎样的？","label":"query_use"}
+{"text":"MPT013B超短波电台嵌入式密码机的主要功能是什么？","label":"query_function"}
+{"text":"MPH009手持式超短波电台密码模块的配置选项有哪些？","label":"query_configuration"}
+{"text":"TJM0004型网管安全保密模块的主要参数是什么？","label":"query_composition"}
+{"text":"MMD066E北斗密钥参数注入器的主要操作流程是怎样的？","label":"query_use"}
+{"text":"MPX001C数字群路密码机的故障解决方案是什么？","label":"query_solution"}
+{"text":"MPH005短波电台密码机的主要操作流程是怎样的？","label":"query_use"}
+{"text":"MMT039型卫星通信密码机的主要参数是什么？","label":"query_composition"}
+{"text":"MPT002A多功能电台密码机的故障原因是什么？","label":"query_fault_cause"}
+{"text":"JP951E会议电视密码机的主要功能是什么？","label":"query_function"}
+{"text":"MPD029B近程无人机密码机的配置选项有哪些？","label":"query_configuration"}
+{"text":"MZX004A型1000M信道密码机的操作流程是怎样的？","label":"query_use"}
+{"text":"MPT005短波电台密码机的故障解决方案是什么？","label":"query_solution"}
+{"text":"TJM0006型端机保密机的解决方案是什么？","label":"query_solution"}
+{"text":"MPH006短波密码机的主要参数是什么？","label":"query_composition"}
+{"text":"MMD049一体化专核密码管理系统的配置选项有哪些？","label":"query_configuration"}
+{"text":"TJM0004型网管安全保密模块的故障解决方案是什么？", "label":"query_solution"}
+{"text":"MMD066E北斗密钥参数注入器的主要功能是什么？", "label":"query_function"}
+{"text":"MPX001C数字群路密码机的故障原因是什么？", "label":"query_fault_cause"}
+{"text":"MPH009手持式超短波电台密码模块的主要操作流程是怎样的？", "label":"query_use"}
+{"text":"MZX004A型1000M信道密码机的主要操作流程是怎样的？", "label":"query_use"}
+{"text":"MPT005短波电台密码机的配置选项有哪些？", "label":"query_configuration"}
+{"text":"JP951E会议电视密码机的主要参数是什么？", "label":"query_composition"}
+{"text":"MPD040B无人机测控系统密码机的解决方案是什么？", "label":"query_solution"}
+{"text":"TJM0006型端机保密机的主要功能是什么？", "label":"query_function"}
+{"text":"MMT039型卫星通信密码机的故障原因是什么？", "label":"query_fault_cause"}
+{"text":"MPH006短波密码机的主要操作流程是怎样的？", "label":"query_use"}
+{"text":"MPT013B超短波电台嵌入式密码机的主要功能是什么？", "label":"query_function"}
+{"text":"MPD016A指挥所无线通信系统线路密码机的配置选项有哪些？", "label":"query_configuration"}
+{"text":"MMD049一体化专核密码管理系统的故障解决方案是什么？", "label":"query_solution"}
+{"text":"MPH005短波电台密码机的主要功能是什么？", "label":"query_function"}
+{"text":"TJM0004型网管安全保密模块的主要操作流程是怎样的？", "label":"query_use"}
+{"text":"MPX001C数字群路密码机的主要参数是什么？", "label":"query_composition"}
+{"text":"JP951E会议电视密码机的故障原因是什么？", "label":"query_fault_cause"}
+{"text":"MPD029B近程无人机密码机的操作流程是怎样的？", "label":"query_use"}
+{"text":"MMT039型卫星通信密码机的主要功能是什么？", "label":"query_function"}
+{"text":"MPT002A多功能电台密码机的配置选项有哪些？", "label":"query_configuration"}
+{"text":"MPH009手持式超短波电台密码模块的故障原因是什么？", "label":"query_fault_cause"}
+{"text":"MMD066E北斗密钥参数注入器的主要参数是什么？", "label":"query_composition"}
+{"text":"MPD016A指挥所无线通信系统线路密码机的主要功能是什么？", "label":"query_function"}
+{"text":"MPT013B超短波电台嵌入式密码机的操作流程是怎样的？", "label":"query_use"}
+{"text":"JP980D2航空数据链V/U信道密码机的配置选项有哪些？", "label":"query_configuration"}
+{"text":"MZX004A型1000M信道密码机的主要参数是什么？", "label":"query_composition"}
+{"text":"TJM0006型端机保密机的故障原因是什么？", "label":"query_fault_cause"}
+{"text":"MPX001C数字群路密码机的解决方案是什么？", "label":"query_solution"}
+{"text":"MPH005短波电台密码机的主要操作流程是怎样的？", "label":"query_use"}
+{"text":"MPT013B超短波电台嵌入式密码机的故障解决方案是什么？", "label":"query_solution"}
+{"text":"JP951E会议电视密码机的主要功能是什么？", "label":"query_function"}
+{"text":"MPD029B近程无人机密码机的主要参数是什么？", "label":"query_composition"}
+{"text":"TJM0004型网管安全保密模块的配置选项有哪些？", "label":"query_configuration"}
+{"text":"MMT039型卫星通信密码机的主要操作流程是怎样的？", "label":"query_use"}
+{"text":"MPH006短波密码机的故障解决方案是什么？", "label":"query_solution"}
+{"text":"MPT005短波电台密码机的主要功能是什么？", "label":"query_function"}
+{"text":"MPD040B无人机测控系统密码机的操作流程是怎样的？", "label":"query_use"}
+{"text":"MMD049一体化专核密码管理系统的主要参数是什么？", "label":"query_composition"}
+{"text":"MPH009手持式超短波电台密码模块的配置选项有哪些？", "label":"query_configuration"}
+{"text":"MZX004A型1000M信道密码机的故障原因是什么？", "label":"query_fault_cause"}
+{"text":"MPT002A多功能电台密码机的主要操作流程是怎样的？", "label":"query_use"}
+{"text":"TJM0006型端机保密机的主要功能是什么？", "label":"query_function"}
+{"text":"MPX001C数字群路密码机的主要功能是什么？", "label":"query_function"}
+{"text":"JP951E会议电视密码机的配置选项有哪些？", "label":"query_configuration"}
+{"text":"MPD016A指挥所无线通信系统线路密码机的故障解决方案是什么？", "label":"query_solution"}
+{"text":"MPT013B超短波电台嵌入式密码机的主要操作流程是怎样的？", "label":"query_use"}
+{"text":"MPH005短波电台密码机的主要参数是什么？", "label":"query_composition"}
+{"text":"MMT039型卫星通信密码机的故障原因是什么？", "label":"query_fault_cause"}
+{"text":"MMD066E北斗密钥参数注入器的配置选项有哪些？", "label":"query_configuration"}
+{"text":"TJM0004型网管安全保密模块的主要参数是什么？", "label":"query_composition"}
+{"text":"MPD029B近程无人机密码机的故障解决方案是什么？", "label":"query_solution"}
+{"text":"MPT002A多功能电台密码机的配置选项有哪些？", "label":"query_configuration"}
+{"text":"MPH009手持式超短波电台密码模块的主要功能是什么？", "label":"query_function"}
+{"text":"MZX004A型1000M信道密码机的操作流程是怎样的？", "label":"query_operation"}
+{"text":"MPT005短波电台密码机的故障原因是什么？", "label":"query_fault_cause"}
+{"text":"TJM0006型端机保密机的解决方案是什么？", "label":"query_solution"}
+{"text":"MPH006短波密码机的主要参数是什么？", "label":"query_parameter"}
+{"text":"MMD049一体化专核密码管理系统的主要操作流程是怎样的？", "label":"query_operation"}
+{"text":"MPD016A指挥所无线通信系统线路密码机的主要参数是什么？", "label":"query_parameter"}
+{"text":"JP980D2航空数据链V/U信道密码机的故障原因是什么？", "label":"query_fault_cause"}
+{"text":"MPT013B超短波电台嵌入式密码机的主要功能是什么？", "label":"query_function"}
+{"text":"MPX001C数字群路密码机的配置选项有哪些？", "label":"query_configuration"}
+{"text":"MPH005短波电台密码机的操作流程是怎样的？", "label":"query_operation"}
+{"text":"MMD066E北斗密钥参数注入器的故障原因是什么？", "label":"query_fault_cause"}
+{"text":"TJM0004型网管安全保密模块的解决方案是什么？", "label":"query_solution"}
+{"text":"MPD040B无人机测控系统密码机的主要参数是什么？", "label":"query_parameter"}
+{"text":"MPT002A多功能电台密码机的主要功能是什么？", "label":"query_function"}
+{"text":"MPH009手持式超短波电台密码模块的故障解决方案是什么？", "label":"query_solution"}
+{"text":"MMT039型卫星通信密码机的配置选项有哪些？", "label":"query_configuration"}
+{"text":"JP951E会议电视密码机的操作流程是怎样的？", "label":"query_operation"}
+{"text":"MPD029B近程无人机密码机的主要操作流程是什么？", "label":"query_operation"}
+{"text":"MZX004A型1000M信道密码机的主要功能是什么？", "label":"query_function"}
+{"text":"MPT005短波电台密码机的主要参数是什么？", "label":"query_parameter"}
+{"text":"TJM0006型端机保密机的故障原因是什么？", "label":"query_fault_cause"}
+{"text":"MPH006短波密码机的配置选项有哪些？", "label":"query_configuration"}
+{"text":"MMD049一体化专核密码管理系统的故障原因是什么？", "label":"query_fault_cause"}
+{"text":"MPX001C数字群路密码机的故障解决方案是什么？", "label":"query_solution"}
+{"text":"MPT013B超短波电台嵌入式密码机的主要操作流程是怎样的？", "label":"query_operation"}
+{"text":"MPH005短波电台密码机的主要功能是什么？", "label":"query_function"}
+{"text":"TJM0004型网管安全保密模块的主要参数是什么？", "label":"query_parameter"}
+{"text":"MMT039型卫星通信密码机的故障解决方案是什么？", "label":"query_solution"}
+{"text":"JP951E会议电视密码机的主要功能是什么？", "label":"query_function"}
+{"text":"MPD029B近程无人机密码机的故障原因是什么？", "label":"query_fault_cause"}
+{"text":"MZX004A型1000M信道密码机的配置选项有哪些？", "label":"query_configuration"}
+{"text":"MPT005短波电台密码机的操作流程是怎样的？", "label":"query_operation"}
+{"text":"TJM0006型端机保密机的主要功能是什么？", "label":"query_function"}
+{"text":"MPH006短波密码机的故障解决方案是什么？", "label":"query_solution"}
+{"text":"MMD049一体化专核密码管理系统的主要参数是什么？", "label":"query_parameter"}
+{"text":"MPD016A指挥所无线通信系统线路密码机的操作流程是怎样的？", "label":"query_operation"}
+{"text":"JP980D2航空数据链V/U信道密码机的主要功能是什么？", "label":"query_function"}
+{"text":"MPT013B超短波电台嵌入式密码机的故障原因是什么？", "label":"query_fault_cause"}
+{"text":"MPX001C数字群路密码机的主要操作流程是怎样的？", "label":"query_operation"}
+{"text":"MPH005短波电台密码机的主要参数是什么？", "label":"query_parameter"}
+{"text":"MMD066E北斗密钥参数注入器的主要功能是什么？", "label":"query_function"}
+{"text":"TJM0004型网管安全保密模块的主要操作流程是怎样的？", "label":"query_operation"}
+{"text":"MPD040B无人机测控系统密码机的故障解决方案是什么？", "label":"query_solution"}
+{"text":"MPT002A多功能电台密码机的故障原因是什么？", "label":"query_fault_cause"}
+{"text":"MPH009手持式超短波电台密码模块的配置选项有哪些？", "label":"query_configuration"}
+{"text":"MMT039型卫星通信密码机的主要操作流程是怎样的？", "label":"query_operation"}
+{"text":"JP951E会议电视密码机的主要参数是什么？", "label":"query_parameter"}
+{"text":"MPD029B近程无人机密码机的主要功能是什么？", "label":"query_function"}
+{"text":"MZX004A型1000M信道密码机的故障解决方案是什么？", "label":"query_solution"}
+{"text":"MPT005短波电台密码机的主要功能是什么？", "label":"query_function"}
+{"text":"TJM0006型端机保密机的主要操作流程是怎样的？", "label":"query_operation"}
+{"text":"MPH006短波密码机的主要功能是什么？", "label":"query_function"}
+{"text":"MMD049一体化专核密码管理系统的故障解决方案是什么？", "label":"query_solution"}
+{"text":"MPX001C数字群路密码机的主要参数是什么？", "label":"query_parameter"}
+{"text":"MPT013B超短波电台嵌入式密码机的主要功能是什么？", "label":"query_function"}
+{"text":"JP980D2航空数据链V/U信道密码机的配置选项有哪些？", "label":"query_configuration"}
+{"text":"MPD016A指挥所无线通信系统线路密码机的故障原因是什么？", "label":"query_fault_cause"}
+{"text":"MZX004A型1000M信道密码机的主要操作流程是怎样的？", "label":"query_operation"}
+{"text":"MPT005短波电台密码机的主要功能是什么？", "label":"query_function"}
+{"text":"TJM0006型端机保密机的故障解决方案是什么？", "label":"query_solution"}
+{"text":"MPH006短波密码机的主要参数是什么？", "label":"query_parameter"}
+{"text":"MMD066E北斗密钥参数注入器的配置选项有哪些？", "label":"query_configuration"}
+{"text":"TJM0004型网管安全保密模块的主要功能是什么？", "label":"query_function"}
+{"text":"MPD040B无人机测控系统密码机的主要操作流程是怎样的？", "label":"query_operation"}
+{"text":"MPT002A多功能电台密码机的故障解决方案是什么？", "label":"query_solution"}
+{"text":"MPH009手持式超短波电台密码模块的主要参数是什么？", "label":"query_parameter"}
+{"text":"MMT039型卫星通信密码机的主要功能是什么？", "label":"query_function"}
+{"text":"JP951E会议电视密码机的故障原因是什么？", "label":"query_fault_cause"}
+{"text":"MPD029B近程无人机密码机的配置选项有哪些？", "label":"query_configuration"}
+{"text":"MZX004A型1000M信道密码机的主要功能是什么？", "label":"query_function"}
+{"text":"MPT005短波电台密码机的故障解决方案是什么？", "label":"query_solution"}
+{"text":"TJM0006型端机保密机的主要参数是什么？", "label":"query_parameter"}
+{"text":"MPH006短波密码机的主要操作流程是怎样的？", "label":"query_operation"}
+{"text":"MMD049一体化专核密码管理系统的配置选项有哪些？", "label":"query_configuration"}
+{"text":"MPX001C数字群路密码机的主要功能是什么？", "label":"query_function"}
+{"text":"MPT013B超短波电台嵌入式密码机的故障原因是什么？", "label":"query_fault_cause"}
+{"text":"JP980D2航空数据链V/U信道密码机的主要参数是什么？", "label":"query_parameter"}
+{"text":"MPD016A指挥所无线通信系统线路密码机的主要功能是什么？", "label":"query_function"}
+{"text":"MZX004A型1000M信道密码机的故障原因是什么？", "label":"query_fault_cause"}
+{"text":"MPT005短波电台密码机的配置选项有哪些？", "label":"query_configuration"}
+{"text":"TJM0006型端机保密机的故障原因是什么？", "label":"query_fault_cause"}
+{"text":"MPH006短波密码机的主要参数是什么？", "label":"query_parameter"}
+{"text":"MMD066E北斗密钥参数注入器的主要操作流程是怎样的？", "label":"query_operation"}
+{"text":"TJM0004型网管安全保密模块的故障解决方案是什么？", "label":"query_solution"}
+{"text":"MPD040B无人机测控系统密码机的主要功能是什么？", "label":"query_function"}
+{"text":"MPT002A多功能电台密码机的主要参数是什么？", "label":"query_parameter"}
+{"text":"MPH009手持式超短波电台密码模块的配置选项有哪些？", "label":"query_configuration"}
+{"text":"MMT039型卫星通信密码机的故障原因是什么？", "label":"query_fault_cause"}
+{"text":"JP951E会议电视密码机的主要操作流程是怎样的？", "label":"query_operation"}
+{"text":"MPD029B近程无人机密码机的主要参数是什么？", "label":"query_parameter"}
+{"text":"MZX004A型1000M信道密码机的主要参数是什么？", "label":"query_parameter"}
+{"text":"MPT005短波电台密码机的故障原因是什么？", "label":"query_fault_cause"}
+{"text":"TJM0006型端机保密机的配置选项有哪些？", "label":"query_configuration"}
+{"text":"MPH006短波密码机的故障原因是什么？", "label":"query_fault_cause"}
+{"text":"MMD049一体化专核密码管理系统的主要功能是什么？", "label":"query_function"}
+{"text":"MPX001C数字群路密码机的故障原因是什么？", "label":"query_fault_cause"}
+{"text":"MPT013B超短波电台嵌入式密码机的主要参数是什么？", "label":"query_parameter"}
+{"text":"JP980D2航空数据链V/U信道密码机的主要操作流程是怎样的？", "label":"query_operation"}
+{"text":"MPD016A指挥所无线通信系统线路密码机的配置选项有哪些？", "label":"query_configuration"}
+{"text":"MZX004A型1000M信道密码机的故障原因是什么？", "label":"query_fault_cause"}
+{"text":"MPT005短波电台密码机的主要操作流程是怎样的？", "label":"query_operation"}
+{"text":"TJM0006型端机保密机的主要参数是什么？", "label":"query_parameter"}
+{"text":"MPH006短波密码机的故障解决方案是什么？", "label":"query_solution"}
+{"text":"MMD066E北斗密钥参数注入器的主要参数是什么？", "label":"query_parameter"}
+{"text":"TJM0004型网管安全保密模块的配置选项有哪些？", "label":"query_configuration"}
+{"text":"MPD040B无人机测控系统密码机的故障原因是什么？", "label":"query_fault_cause"}
+{"text":"MPT002A多功能电台密码机的主要功能是什么？", "label":"query_function"}
+{"text":"MPH009手持式超短波电台密码模块的故障解决方案是什么？", "label":"query_solution"}
+{"text":"MMT039型卫星通信密码机的配置选项有哪些？", "label":"query_configuration"}
+{"text":"JP951E会议电视密码机的故障解决方案是什么？", "label":"query_solution"}
+{"text":"MPD029B近程无人机密码机的主要操作流程是怎样的？", "label":"query_operation"}
+{"text":"MZX004A型1000M信道密码机的主要操作流程是怎样的？", "label":"query_operation"}
+{"text":"MPT005短波电台密码机的故障解决方案是什么？", "label":"query_solution"}
+{"text":"TJM0006型端机保密机的故障解决方案是什么？", "label":"query_solution"}
+{"text":"MPH006短波密码机的主要功能是什么？", "label":"query_function"}
+{"text":"MMD049一体化专核密码管理系统的主要操作流程是怎样的？", "label":"query_operation"}
+{"text":"MPX001C数字群路密码机的配置选项有哪些？", "label":"query_configuration"}
+{"text":"MPT013B超短波电台嵌入式密码机的故障解决方案是什么？", "label":"query_solution"}
+{"text":"JP980D2航空数据链V/U信道密码机的主要参数是什么？", "label":"query_parameter"}
+{"text":"MPD016A指挥所无线通信系统线路密码机的主要操作流程是怎样的？", "label":"query_operation"}
+{"text":"MZX004A型1000M信道密码机的主要功能是什么？", "label":"query_function"}
+{"text":"MPT005短波电台密码机的主要参数是什么？", "label":"query_parameter"}
+{"text":"TJM0006型端机保密机的配置选项有哪些？", "label":"query_configuration"}
+{"text":"MPH006短波密码机的主要操作流程是怎样的？", "label":"query_operation"}
+{"text":"MMD066E北斗密钥参数注入器的故障原因是什么？", "label":"query_fault_cause"}
+{"text":"TJM0004型网管安全保密模块的主要功能是什么？", "label":"query_function"}
+{"text":"MPD040B无人机测控系统密码机的配置选项有哪些？", "label":"query_configuration"}
+{"text":"MPT002A多功能电台密码机的故障原因是什么？", "label":"query_fault_cause"}
+{"text":"MPH009手持式超短波电台密码模块的主要操作流程是怎样的？", "label":"query_operation"}
+{"text":"MMT039型卫星通信密码机的主要操作流程是怎样的？", "label":"query_operation"}
+{"text":"JP951E会议电视密码机的主要功能是什么？", "label":"query_function"}
+{"text":"MPD029B近程无人机密码机的主要功能是什么？", "label":"query_function"}
+{"text":"MZX004A型1000M信道密码机的故障解决方案是什么？", "label":"query_solution"}
+{"text":"MPT005短波电台密码机的主要功能是什么？", "label":"query_function"}
+{"text":"TJM0006型端机保密机的故障原因是什么？", "label":"query_fault_cause"}
+{"text":"MPH006短波密码机的配置选项有哪些？", "label":"query_configuration"}
+{"text":"MMD049一体化专核密码管理系统的主要参数是什么？", "label":"query_parameter"}
+{"text":"MPX001C数字群路密码机的故障解决方案是什么？", "label":"query_solution"}
+{"text":"MPT013B超短波电台嵌入式密码机的主要操作流程是怎样的？", "label":"query_operation"}
+{"text":"JP980D2航空数据链V/U信道密码机的故障解决方案是什么？", "label":"query_solution"}

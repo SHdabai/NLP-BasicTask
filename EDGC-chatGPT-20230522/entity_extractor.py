@@ -19,8 +19,9 @@ class EntityExtractor:
         self.stopwords = [w.strip() for w in open(self.stopwords_path, 'r', encoding='utf8') if w.strip()]
 
         # 意图分类模型文件
-        self.tfidf_path = os.path.join(cur_dir, 'model/tfidf_model.m')
-        self.nb_path = os.path.join(cur_dir, 'model/intent_reg_model.m')  #朴素贝叶斯模型
+        self.tfidf_path = os.path.join(cur_dir, 'model/tfidf_model.pkl')
+        self.nb_path = os.path.join(cur_dir, 'model/model.pkl')  #朴素贝叶斯模型
+
 
         self.tfidf_model = joblib.load(self.tfidf_path)
         self.nb_model = joblib.load(self.nb_path)
@@ -71,6 +72,9 @@ class EntityExtractor:
                            '咋弄', '咋整', '咋办', '怎么弄', '怎么整']  # 查询解决方案
         self.configuration_qwds = ['配置信息', '配置', '配置内容', '配置啥', '配置什么', '哪些配置', '怎么配置']  # 查询配置
 
+        self.idtolabel = {'0': 'query_solution', '1': 'query_fault_cause', '2': 'query_configuration',
+                     '3': 'query_use', '4': 'query_composition', '5': 'query_parameter', '6': 'query_function',
+                     '7': 'query_operation', }
 
     def build_actree(self, wordlist):
         """
@@ -358,7 +362,10 @@ class EntityExtractor:
         :return:
         """
         pred = model.predict(x)
-        return pred
+        y = [self.idtolabel.get(pred[0])]
+
+
+        return y
 
     #TODO 实体抽取主函数
     def extractor(self, question):
@@ -393,8 +400,11 @@ class EntityExtractor:
 
         feature = np.concatenate((tfidf_feature, other_feature), axis=1) #两者特征进行拼接
 
+
         predicted = self.model_predict(feature, self.nb_model) #模型进行预测 目的意图
-        print(predicted,'predicted---------------------------------')
+
+        # print(predicted,'predicted---------------------------------')
+        # ['query_period']predicted - --------------------------------
         intentions.append(predicted[0])
 
 
