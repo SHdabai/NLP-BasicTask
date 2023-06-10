@@ -46,8 +46,10 @@ def _index():
 def chat():
 
     try:
-        query = request.form.get('query')
-        class_id = request.form.get('id')
+        #query = request.form.get('query')
+        #class_id = request.form.get('id')
+        query = request.args.get("query", None)  # 访问需要传入的参数
+        class_id = request.args.get("id", None)  # 访问需要传入的参数
         if query is None:
             return jsonify({
                 'code':501,
